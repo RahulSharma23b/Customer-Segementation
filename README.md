@@ -17,8 +17,8 @@
 
 
 # Requirements
- 1. Standard Python installation
- 2. Jupyter Notebook
+ 1. Standard Python Installation
+ 2. Google Colab / Jupyter Notebook
  3. PowerPoint
 
 # Analysis
